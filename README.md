@@ -1,22 +1,26 @@
 # Abdul Siraji Latupono
 
-Machine Learning and Data Science learner from Indonesia.
+Machine Learning and Data Science learner based in Makassar, Indonesia.
 
 ## About Me
-I am currently learning Data Science and Machine Learning and building practical projects to improve my analytical and modeling skills.
+I am currently learning data science and machine learning and building practical projects to improve my analytical and modeling skills. My goal is to develop strong capabilities in data analysis, machine learning, and artificial intelligence.
 
-⚠️ Note:
-My focus is on **Data Science, Machine Learning, and data analysis**.
-I do not focus on **web development, UI design, or front-end development**.
+## Focus Area
+My primary focus is on:
+- Data Science
+- Machine Learning
+- Data Analysis
+
+Note: My work does not focus on web development, UI design, or front-end development.
 
 ## Learning Progress
-Courses completed from Dicoding:
+Completed courses:
 
-- Belajar Machine Learning untuk Pemula
-- Memulai Pemrograman dengan Python
-- Belajar Dasar Structured Query Language (SQL)
+- Machine Learning for Beginners
+- Python Programming Fundamentals
+- Basic Structured Query Language (SQL)
 - Introduction to Financial Literacy
-- Belajar Dasar Data Science
+- Basic Data Science
 
 ## Skills
 - Python
@@ -32,5 +36,5 @@ Courses completed from Dicoding:
 ### Bank Transaction Machine Learning
 Machine learning project combining clustering and classification to analyze bank transaction data.
 
-Repository:
+Repository:  
 https://github.com/abdulsiraji1/bank-transaction-machine-learning
